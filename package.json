@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "json-server": "^0.17.3"
+  },
+  "name": "json-server",
+  "description": "All Rest api created that we are using in our tutorials for Angular framework course",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve":"json-server --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/lets-build-with-code/JSON-Server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lets-build-with-code/JSON-Server/issues"
+  },
+  "homepage": "https://github.com/lets-build-with-code/JSON-Server#readme"
+}
