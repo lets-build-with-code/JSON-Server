@@ -1,8 +1,8 @@
 {
   "users": [
     {
-      "role": "ROLE_CUSTOMER",
-      "_id": "612e4851345dcc333ac6cb24",
+      "role": "ROLECUSTOMER",
+      "id": "612e4851345dcc333ac6cb24",
       "name": "Robert Gonzalez",
       "email": "robertgonzalez@gmail.com",
       "number": 7729248883,
@@ -12,8 +12,8 @@
       "lastLoginAt": "2022-12-19T16:37:26.173Z"
     },
     {
-      "role": "ROLE_CUSTOMER",
-      "_id": "612e48bf345dcc333ac6cb28",
+      "role": "ROLECUSTOMER",
+      "id": "612e48bf345dcc333ac6cb28",
       "name": "William Counts",
       "email": "williamcounts@gmail.com",
       "number": 7872982968,
@@ -23,8 +23,8 @@
       "lastLoginAt": "2022-12-03T04:22:13.403Z"
     },
     {
-      "role": "ROLE_CUSTOMER",
-      "_id": "612e48e3345dcc333ac6cb2b",
+      "role": "ROLECUSTOMER",
+      "id": "612e48e3345dcc333ac6cb2b",
       "name": "Tom Hardy",
       "email": "tomhardy@gmail.com",
       "number": 7759013504,
@@ -33,8 +33,8 @@
       "updatedAt": "2021-08-31T15:21:07.057Z"
     },
     {
-      "role": "ROLE_CUSTOMER",
-      "_id": "612e48fb345dcc333ac6cb2e",
+      "role": "ROLECUSTOMER",
+      "id": "612e48fb345dcc333ac6cb2e",
       "name": "Noah Ali",
       "email": "noahali@gmail.com",
       "number": 7543665837,
@@ -43,8 +43,8 @@
       "updatedAt": "2021-08-31T15:21:31.161Z"
     },
     {
-      "role": "ROLE_CUSTOMER",
-      "_id": "612e493e345dcc333ac6cb32",
+      "role": "ROLECUSTOMER",
+      "id": "612e493e345dcc333ac6cb32",
       "name": "Steve Smith",
       "email": "stevesmith@gmail.com",
       "number": 7749111891,
@@ -53,8 +53,8 @@
       "updatedAt": "2021-08-31T15:22:38.221Z"
     },
     {
-      "role": "ROLE_CUSTOMER",
-      "_id": "612e4959345dcc333ac6cb35",
+      "role": "ROLECUSTOMER",
+      "id": "612e4959345dcc333ac6cb35",
       "name": "Sajal Mia",
       "email": "sajalmia@gmail.com",
       "number": 7268435167,
@@ -63,8 +63,8 @@
       "updatedAt": "2021-08-31T15:23:05.292Z"
     },
     {
-      "role": "ROLE_CUSTOMER",
-      "_id": "612e4976345dcc333ac6cb38",
+      "role": "ROLECUSTOMER",
+      "id": "612e4976345dcc333ac6cb38",
       "name": "Aria Ella",
       "email": "ariaella@gmail.com",
       "number": 7963678467,
@@ -73,8 +73,8 @@
       "updatedAt": "2021-08-31T15:23:34.955Z"
     },
     {
-      "role": "ROLE_CUSTOMER",
-      "_id": "612e4991345dcc333ac6cb3b",
+      "role": "ROLECUSTOMER",
+      "id": "612e4991345dcc333ac6cb3b",
       "name": "Alex Dwan",
       "email": "alexdwan@gmail.com",
       "number": 7975390430,
@@ -83,8 +83,8 @@
       "updatedAt": "2021-08-31T15:24:01.144Z"
     },
     {
-      "role": "ROLE_CUSTOMER",
-      "_id": "612e49a7345dcc333ac6cb3e",
+      "role": "ROLECUSTOMER",
+      "id": "612e49a7345dcc333ac6cb3e",
       "name": "James Anderson",
       "email": "jamesanderson@gmail.com",
       "number": 7902558400,
@@ -93,8 +93,8 @@
       "updatedAt": "2021-08-31T15:24:23.691Z"
     },
     {
-      "role": "ROLE_CUSTOMER",
-      "_id": "612e49b9345dcc333ac6cb41",
+      "role": "ROLECUSTOMER",
+      "id": "612e49b9345dcc333ac6cb41",
       "name": "Sofia Lily",
       "email": "sofialily@gmail.com",
       "number": 7796230705,
@@ -103,8 +103,8 @@
       "updatedAt": "2021-08-31T15:24:41.082Z"
     },
     {
-      "role": "ROLE_CUSTOMER",
-      "_id": "612e49ce345dcc333ac6cb44",
+      "role": "ROLECUSTOMER",
+      "id": "612e49ce345dcc333ac6cb44",
       "name": "David Miller",
       "email": "davidmiller@gmail.com",
       "number": 7078247245,
@@ -113,8 +113,8 @@
       "updatedAt": "2021-08-31T15:25:02.795Z"
     },
     {
-      "role": "ROLE_CUSTOMER",
-      "_id": "612e49eb345dcc333ac6cb47",
+      "role": "ROLECUSTOMER",
+      "id": "612e49eb345dcc333ac6cb47",
       "name": "Mark Lyan",
       "email": "marklyan@gmail.com",
       "number": 7863927185,
@@ -124,8 +124,8 @@
       "lastLoginAt": "2023-05-03T11:55:11.755Z"
     },
     {
-      "role": "ROLE_CUSTOMER",
-      "_id": "612e4a02345dcc333ac6cb4a",
+      "role": "ROLECUSTOMER",
+      "id": "612e4a02345dcc333ac6cb4a",
       "name": "Donald Ashley",
       "email": "donaldashley@gmail.com",
       "number": 7848316392,
@@ -134,8 +134,8 @@
       "updatedAt": "2021-08-31T15:25:54.606Z"
     },
     {
-      "role": "ROLE_CUSTOMER",
-      "_id": "612e4a15345dcc333ac6cb4d",
+      "role": "ROLECUSTOMER",
+      "id": "612e4a15345dcc333ac6cb4d",
       "name": "Nova Aurora",
       "email": "noaaurora@gmail.com",
       "number": 7876017508,
@@ -144,8 +144,8 @@
       "updatedAt": "2021-08-31T15:26:13.620Z"
     },
     {
-      "role": "ROLE_CUSTOMER",
-      "_id": "61e944df2cefb5a72936696a",
+      "role": "ROLECUSTOMER",
+      "id": "61e944df2cefb5a72936696a",
       "name": "Torine Walker",
       "email": "torinewalker@gmail.com",
       "password": "$2b$10$XMcfSrDdn8C4yEzq6B6GfOlEB8qnIDE0yCJAxOxPhTUWX7I0NErGK",
@@ -153,6 +153,65 @@
       "updatedAt": "2022-02-19T13:09:15.024Z",
       "number": 7867045701,
       "lastLoginAt": "2022-02-19T13:09:15.022Z"
+    },
+    {
+      "role": "ROLE_CUSTOMER",
+      "name": "Robert Gonzalez",
+      "number": "nil",
+      "email": "robertgonzalez@gmail.com",
+      "password": "$2b$10$VNrU4oX2aqRYQDQsecpTiO37oQZTnVE43JFKXQXCDWHq2PcVWHz9e",
+      "createdAt": "2021-08-31T15:18:41.876Z",
+      "updatedAt": "2022-12-19T16:37:26.174Z",
+      "lastLoginAt": "2022-12-19T16:37:26.173Z",
+      "id": "Kw1zHyi"
+    },
+    {
+      "role": "ROLE_CUSTOMER",
+      "name": "Robert Gonzalez",
+      "number": "nil",
+      "email": "robertgonzalez@gmail.com",
+      "password": "$2b$10$VNrU4oX2aqRYQDQsecpTiO37oQZTnVE43JFKXQXCDWHq2PcVWHz9e",
+      "createdAt": "2021-08-31T15:18:41.876Z",
+      "updatedAt": "2022-12-19T16:37:26.174Z",
+      "lastLoginAt": "2022-12-19T16:37:26.173Z",
+      "eamil": "custom@test.com",
+      "id": "7LmrZwM"
+    },
+    {
+      "role": "ROLE_CUSTOMER",
+      "name": "Robert Gonzalez",
+      "number": "nil",
+      "email": "robertgonzalez@gmail.com",
+      "password": "$2b$10$VNrU4oX2aqRYQDQsecpTiO37oQZTnVE43JFKXQXCDWHq2PcVWHz9e",
+      "createdAt": "2021-08-31T15:18:41.876Z",
+      "updatedAt": "2022-12-19T16:37:26.174Z",
+      "lastLoginAt": "2022-12-19T16:37:26.173Z",
+      "eamil": "custom@test.com",
+      "id": "uI28sQD"
+    },
+    {
+      "role": "ROLE_CUSTOMER",
+      "name": "Robert Gonzalez",
+      "number": "nil",
+      "email": "robertgonzalez@gmail.com",
+      "password": "$2b$10$VNrU4oX2aqRYQDQsecpTiO37oQZTnVE43JFKXQXCDWHq2PcVWHz9e",
+      "createdAt": "2021-08-31T15:18:41.876Z",
+      "updatedAt": "2022-12-19T16:37:26.174Z",
+      "lastLoginAt": "2022-12-19T16:37:26.173Z",
+      "eamil": "custom@test.com",
+      "id": "pITnNjl"
+    },
+    {
+      "role": "ROLE_CUSTOMER",
+      "name": "Robert Gonzalez",
+      "number": "nil",
+      "email": "robertgonzalez@gmail.com",
+      "password": "$2b$10$VNrU4oX2aqRYQDQsecpTiO37oQZTnVE43JFKXQXCDWHq2PcVWHz9e",
+      "createdAt": "2021-08-31T15:18:41.876Z",
+      "updatedAt": "2022-12-19T16:37:26.174Z",
+      "lastLoginAt": "2022-12-19T16:37:26.173Z",
+      "eamil": "custom@test.com",
+      "id": "oFGeU5b"
     }
   ]
 }
